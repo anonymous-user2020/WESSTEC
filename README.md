@@ -9,3 +9,7 @@ Upon publication, we will provide the GitHub link for the final version of the p
 ## How to run the code
 **Running inside Eclipse**
 This project is based on [Gradle](https://gradle.org/). So it could be easily imported to Eclipse. For importing it the Eclipse should contain [Buildship Plugin](https://projects.eclipse.org/projects/tools.buildship).  After installing [Buildship Plugin](https://projects.eclipse.org/projects/tools.buildship), you can easily import the project into the Eclipse as a Gradle project.
+
+## Labeled Data Generation
+
+## Wide&Deep model
