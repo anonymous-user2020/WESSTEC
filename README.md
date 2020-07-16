@@ -19,4 +19,4 @@ WESSTEC consists of two main modules:
 This module aims to generate labeled documents from a given label list and unlabeled set of documents. To generate labeled data user should run:
 `/src/main/java/org/fiz/ise/gwifi/WESSTEC/LabeledDataGeneration.java` 
 ## (2) Wide&Deep model
-To perform the short text categorization task with the Wide&Deep model, users should run: keras_wide_deep.py
+To perform the short text categorization task with the Wide&Deep model, users should run: `keras_wide_deep.py`
