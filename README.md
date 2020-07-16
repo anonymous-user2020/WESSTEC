@@ -15,6 +15,7 @@ WESSTEC consists of two main modules:
 (1) a data labeling module, which computes probabilistic labels for a given unlabeled training data set, and 
 (2) a classification model based on a Wide & Deep learning approach.
 
-## Labeled Data Generation
-  
-## Wide&Deep model
+## (1)Labeled Data Generation
+This module aims to generate labeled documents from a given label list and unlabeled set of documents. To generate labeled data user should run:
+`/src/main/java/org/fiz/ise/gwifi/WESSTEC/LabeledDataGeneration.java` 
+## (2)Wide&Deep model
