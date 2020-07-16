@@ -10,6 +10,11 @@ Upon publication, we will provide the GitHub link for the final version of the p
 **Running inside Eclipse**
 This project is based on [Gradle](https://gradle.org/). So it could be easily imported to Eclipse. For importing it the Eclipse should contain [Buildship Plugin](https://projects.eclipse.org/projects/tools.buildship).  After installing [Buildship Plugin](https://projects.eclipse.org/projects/tools.buildship), you can easily import the project into the Eclipse as a Gradle project.
 
-## Labeled Data Generation
+## Components of WESSTEC
+WESSTEC consists of two main modules: 
+(1) a data labeling module, which computes probabilistic labels for a given unlabeled training data set, and 
+(2) a classification model based on a Wide & Deep learning approach.
 
+## Labeled Data Generation
+  
 ## Wide&Deep model
