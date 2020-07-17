@@ -1,6 +1,6 @@
 # WESSTEC
 
-This is an implementation of the WESSTEC model. The repository contains the java as well as python code. We will also publish trained embedding models as well as the datasets. Due to the double-blind policy of ISWC, we have published the code under an anonymous user name.
+This is an implementation of the WESSTEC model. The repository contains the java code (labeled data generation module) as well as python code (Wide&Deep module). We will also publish trained embedding models as well as the datasets. Due to the double-blind policy of ISWC, we have published the code under an anonymous user name.
 
 Upon publication, we will provide the GitHub link for the final version of the paper. Also, we will prepare a much more elaborate README file. 
 
